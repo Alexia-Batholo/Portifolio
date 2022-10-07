@@ -22,22 +22,13 @@
     height: 40px;
   }
   
-  .cabecalho-menu {
-    display: flex;
-    gap: 52px;
-  }
-  
-  .cabecalho-menu-item {
-    font-family: 'Montserrat', sans-serif;
-    color: #FFF2E7;
-    font-weight: 400;
-    font-size: 15px
+  .page-section{
+    padding: 6rem;
   }
   
   
   
-  .cores{
-    background-color: #3B89AC;
-    font-family: 'Montserrat', sans-serif;
-    border: radius 0;
-  }
+  
+  
+  
+  
