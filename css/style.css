@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@500 & family= Noto+Sans:wght@300 & display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+
+  body {
+    font-size: 100%;
+  }
+
+  .cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #3B89AC;
+  }
+  .cabecalho-imagem {
+    height: 40px;
+  }
+  
+  .cabecalho-menu {
+    display: flex;
+    gap: 52px;
+  }
+  
+  .cabecalho-menu-item {
+    font-family: 'Montserrat', sans-serif;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 15px
+  }
+  
+  
+  
+  .cores{
+    background-color: #3B89AC;
+    font-family: 'Montserrat', sans-serif;
+    border: radius 0;
+  }
