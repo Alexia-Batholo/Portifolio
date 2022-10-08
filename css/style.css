@@ -25,7 +25,16 @@
   .page-section{
     padding: 6rem;
   }
+
+.rounded-3 {
+    
+    border-radius: 8px;
+}
+.border {
+  border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color)!important;
+  box-shadow: 1px 1px 5px #aaaaaa;
   
+}
   
   
   
